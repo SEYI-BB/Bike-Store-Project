@@ -1,4 +1,4 @@
-# bikestore
+# Overview
 
 In this project, my task is to create an executive sales dashboard for the theoretical bike retail company that I work for.
 
